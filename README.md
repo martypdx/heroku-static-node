@@ -1,6 +1,6 @@
 # Static site on heroku using node.js
 
-You really shouldn't use heroku for this, but if you need to stub something out.
+You really shouldn't use heroku for this, but if you need to stub something out...
 
 ## Setup
 
